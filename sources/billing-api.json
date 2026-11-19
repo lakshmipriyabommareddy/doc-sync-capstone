@@ -1,0 +1,11 @@
+{
+  "endpoints": [
+    {
+      "method": "POST",
+      "path": "/invoices",
+      "summary": "Create an invoice",
+      "auth": "Bearer token required",
+      "owner": null
+    }
+  ]
+}
