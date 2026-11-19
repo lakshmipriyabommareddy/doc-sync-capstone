@@ -1,0 +1,3 @@
+# 05 — Implementation
+
+After the plan is approved, use the `implementer` agent. Build the `docsync` package using only Python's standard library. Read `sources/billing-api.json`, render `docs/API.md`, never invent values, render missing/empty/null/secret fields as `Not Found`, and leave output unchanged for missing or invalid sources. Reject paths escaping the repository root. Add the requested tests.
